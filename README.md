@@ -41,6 +41,7 @@ Day 2
 	Using a Boolean to toggle a message
 
 (main2.java)
+
 5. Getting the "Scanner" Tool
 	declaring variable java.util.Scanner;
 	Setting it up: Scanner scanner = new Scanner(System.in);
