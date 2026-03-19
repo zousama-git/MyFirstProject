@@ -21,25 +21,31 @@ public class Main {
         System.out.println("");
         System.out.println("Day 2");
 
+        //string
         int iAge = 21;
 
+        //double
         double Price = 16.56;
         double GPA = 3.5;
         double Temperature = 26;
 
+        //character
         char Grade = 'A';
         char Symbol = '!';
         char Currency = 'R';
 
+        //Boolean
         boolean isStudent = true;
         //boolean forSale = false;
         boolean forSale = true;
         boolean isOnline = true;
 
+        //string
         String name = "zou";
         String food = "pizza";
         String email = "fake123@gmail.com";
 
+        //printing
         System.out.println("I am "+ iAge + " years old");
         System.out.println("R" + Price + ", " +GPA+", "+Temperature+" Celsius");
         System.out.println(Grade +" "+ Currency +" "+ Symbol);
@@ -64,5 +70,5 @@ public class Main {
             System.out.println(name +" will sell it to you" +Symbol);
         }
     }
-    
+
 }
