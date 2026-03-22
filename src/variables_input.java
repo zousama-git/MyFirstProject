@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main2 {
+public class variables_input {
     //note that I removed the "public" before "static"
      static void main(String[] args) {
         //after adding the util, you'll add a scanner
@@ -54,7 +54,7 @@ public class Main2 {
          //Calculate the area of a rectangle
 
          //faster way to declare your variables
-         double width, length, area =0;
+         double width, length, area;
 
          System.out.print("Enter your length: ");
          length = scanner.nextDouble();
