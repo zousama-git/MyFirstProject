@@ -7,7 +7,7 @@ public class Main2 {
 
         /* this type will only read the first word
         String name = scanner.next(); */
-/*        //string
+        //string
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
@@ -37,11 +37,10 @@ public class Main2 {
             else {
             System.out.println("You are NOT enrolled");
         }
-*/
-/*
+
         //Common issues
          System.out.print("Age: ");
-         int age = scanner.nextInt();
+         int iAge = scanner.nextInt();
 
          //to fix the issue
          scanner.nextLine();
@@ -49,9 +48,9 @@ public class Main2 {
          System.out.print("Colour: ");
          String colour = scanner.nextLine();
 
-         System.out.println("You are "+age+ " years old");
+         System.out.println("You are "+iAge+ " years old");
          System.out.println("You like the colour " +colour);
-*/
+
          //Calculate the area of a rectangle
 
          //faster way to declare your variables
